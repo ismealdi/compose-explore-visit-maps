@@ -194,7 +194,6 @@ fun StoreView(
                 enabled = true,
                 color = Red90,
                 action = {
-                    onDetailClick.invoke()
                 })
 
             Button(

@@ -114,6 +114,7 @@ fun AppNavHost(
             arguments = listOf(navArgument("storeId") { type = NavType.IntType })
         ) { backStackEntry ->
             SummaryView(
+                storeId = backStackEntry.arguments?.getInt("storeId"),
                 onLoading = {
                     loadingState.invoke(it)
                 },

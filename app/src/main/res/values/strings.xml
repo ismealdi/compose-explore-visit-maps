@@ -28,4 +28,5 @@
     <string name="no_visit_text">No Visit</string>
     <string name="visited_text">Visited</string>
     <string name="lokasi_kosong_text">Lokasi belum sesuai</string>
+    <string name="selesai_text">Selesai</string>
 </resources>

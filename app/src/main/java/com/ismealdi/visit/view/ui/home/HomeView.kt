@@ -123,7 +123,7 @@ fun HomeView(
                         modifier = Modifier
                             .size(80.dp)
                             .constrainAs(photo) {
-                                top.linkTo(container.bottom, 48.dp)
+                                top.linkTo(container.bottom, 54.dp)
                                 start.linkTo(parent.start)
                                 end.linkTo(parent.end)
                             },
