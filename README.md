@@ -3,6 +3,8 @@
 
 # Demo
 
+![](https://github.com/ismealdi/compose-explore-visit-maps/blob/main/demo.gif)
+
 
 ## Contributing
 1. Fork it (<https://github.com/ismealdi/compose-explore-visit-maps/fork>)
