@@ -38,12 +38,8 @@ class HomeViewModel(
 
     fun perfomLogout() {
         viewModelScope.launch {
-            _loadingEvent.postEvent(true)
-
             session.authAccess = emptyString()
             repository.storeDeleteAll()
-
-            _loadingEvent.postEvent(false)
             _logoutEvent.postEvent(true)
         }
     }
