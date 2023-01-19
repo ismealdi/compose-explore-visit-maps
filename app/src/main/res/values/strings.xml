@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Visit</string>
+    <string name="login_password_text">Password</string>
+    <string name="login_email_text">Email</string>
+    <string name="login_title_text">Login</string>
+    <string name="login_description_text">Welcome back! Let\'s login to your account</string>
+    <string name="clear_text">Clear Text</string>
+    <string name="toggle_text">Toggle Text</string>
+    <string name="oops_text">Oops..</string>
+    <string name="ok_text">OK</string>
+    <string name="icon_text">Icon</string>
+
+    <string name="check_update_text">Check Update</string>
+    <string name="keep_username_text">Keep username</string>
+    <string name="login_text">Login</string>
+    <string name="masukan_email_text">Masukan email</string>
+    <string name="login_failure_text">You entered an invalid username/email/phone number or password. Please try again.</string>
+    <string name="info">Info</string>
+    <string name="tutup">Tutup</string>
+
+
+    <string name="warning_tittle">Warning</string>
+    <string name="this_feature_need_camera">This feature need Camera</string>
+    <string name="this_feature_need_location">This feature need Location Access</string>
+    <string name="positive_action_label">OK</string>
+    <string name="negative_action_label">Batal</string>
+    <string name="visit_text">Visit</string>
+    <string name="no_visit_text">No Visit</string>
+    <string name="visited_text">Visited</string>
+    <string name="lokasi_kosong_text">Lokasi belum sesuai</string>
+</resources>
